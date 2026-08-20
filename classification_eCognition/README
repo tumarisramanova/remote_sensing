@@ -1,1 +1,55 @@
+# eCognition Classification & Object Features
+
+This assignment was completed as part of my **Advanced Remote Sensing** coursework. The main goal was to practice supervised image classification and rule-based classification in **eCognition Developer**.
+
+## Part I – Supervised Classification
+
+In the first part, I created a supervised classification using training samples and a machine-learning classifier in eCognition.
+
+The workflow included:
+
+* Creating and selecting training samples
+* Training a supervised classification model
+* Classifying image objects into predefined classes
+* Visualizing the classification results
+* Applying the same training samples with a second classifier to compare the results
+
+The submitted results include:
+
+1. Classification result with the selected classifier, including the **Process Tree**, **Rule Set**, and **Class Hierarchy**
+2. Selected training samples in the **Samples View**
+3. Classification result produced using a different classifier with the same training samples
+
+## Part II – Object Features & Rule-Based Classification
+
+The second part focused on using different **object features** in eCognition to create rule-based classifications.
+
+The exercise explored how image objects can be classified based on their characteristics, such as spectral, spatial, geometric, and contextual information.
+
+For each task, I applied the required feature or rule, analyzed the resulting objects, and documented the results with screenshots.
+
+## Software
+
+* **eCognition Developer**
+* Object-Based Image Analysis (OBIA)
+* Supervised Machine Learning Classification
+* Rule-Based Classification
+
+## Skills Practiced
+
+This assignment helped me practice:
+
+* Image segmentation and object-based analysis
+* Training sample selection
+* Supervised classification
+* Comparing machine-learning classifiers
+* Working with eCognition Process Trees
+* Using object features for classification
+* Designing rule-based classification workflows
+
+## Repository Content
+
+The repository contains screenshots and assignment results demonstrating the classification workflows and object-feature exercises completed in eCognition.
+
+
 
