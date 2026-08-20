@@ -1,5 +1,7 @@
 # eCognition Classification & Object Features
 
+![SVM classification result](images/SVM%20model%20result.png)
+
 This assignment was completed as part of my **Advanced Remote Sensing** coursework. The main goal was to practice supervised image classification and rule-based classification in **eCognition Developer**.
 
 ## Part I – Supervised Classification
